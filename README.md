@@ -21,7 +21,7 @@ JavaScript – Dinamik ve etkileşimli özellikler.
 Projeyi Klonlayın:
 
 bash
-git clone https://github.com/kullaniciadi/3d-ari-web.git
+git clone https://github.com/heisenberg1098/3D-Ari-Animasyonlu-Web-Sitesi.git
 
 Gerekli Bağımlılıkları Yükleyin:
 
